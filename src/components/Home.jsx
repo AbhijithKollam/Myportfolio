@@ -1,5 +1,5 @@
 import React from 'react'
-import resume from '../Assets/CV.pdf'
+import resume from '../Assets/CV1.pdf'
 
 function Home() {
     return (
