@@ -41,6 +41,7 @@ const Work = () => {
                 // </div>
 
                 <div>
+                  <h2 className='pb-1'>{item.name}</h2>
                   <img src={`${item.image}`} alt="" className="rounded-lg shadow-md shadow-[#040c16] hover:scale-110 duration-500" />
                   <div className="button-container grid-cols-2">
                     <a href={`${item.github}`} target='_blank' rel="noopener noreferrer"><button className="btn btn-success m-2 shadow-md shadow-[#040c16] hover:scale-110 duration-500">Github</button></a>
@@ -67,3 +68,4 @@ const Work = () => {
 };
 
 export default Work;
+

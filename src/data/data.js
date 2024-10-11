@@ -6,14 +6,38 @@ import Media from "../Assets/projects/MediaPlayer.png";
 import Rest from "../Assets/projects/Restaurant.png";
 import Simple from "../Assets/projects/SimpleIntrest.png";
 import Todo from "../Assets/projects/ToDo.png";
+import Artify from "../Assets/projects/Artify.png";
+import ProjectFair from "../Assets/projects/Projectfair.png";
 
 export const data = [
+  {
+    id: 1,
+    name: "Artify",
+    image: Artify,
+    github: "https://github.com/AbhijithKollam/artify.git",
+    live: "https://artify-abhijith-ss-projects-54cbdae3.vercel.app/",
+  },
+  {
+    id: 1,
+    name: "Project Fair",
+    image: ProjectFair,
+    github: "https://github.com/AbhijithKollam/ProjectFair",
+    live: "https://project-fair-phi.vercel.app/",
+  },
+ 
   {
     id: 1,
     name: "Netflix",
     image: Netflix,
     github: "https://github.com/AbhijithKollam/netflix.git",
     live: "https://precious-malabi-88f717.netlify.app/",
+  },
+  {
+    id: 5,
+    name: "Media Player",
+    image: Media,
+    github: "https://github.com/AbhijithKollam/mediaPlayer.git",
+    live: "https://media-player-lime.vercel.app/",
   },
   {
     id: 2,
@@ -35,13 +59,6 @@ export const data = [
     image: Ekart,
     github: "https://github.com/AbhijithKollam/Ekart.git",
     live: "https://ekart-delta.vercel.app/",
-  },
-  {
-    id: 5,
-    name: "Media Player",
-    image: Media,
-    github: "https://github.com/AbhijithKollam/mediaPlayer.git",
-    live: "https://media-player-lime.vercel.app/",
   },
   {
     id: 6,

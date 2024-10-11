@@ -12,7 +12,7 @@ function Header() {
 
   return (
     <nav className="navbar fixed top-0 w-full ">
-      <div className="brand">Abhijith</div>
+      <div className="brand">Abhijith S</div>
       <ul className={`nav-links ${isNavOpen ? 'active' : ''}`}>
         <li className='hover:scale-150 duration-500'> <a href="#home">Home</a></li>
         <li className='hover:scale-150 duration-500'> <a href="#about">About</a></li>

@@ -4,8 +4,9 @@ import CSS from '../Assets/css.png'
 import Boot from '../Assets/pngwing.com (5).png'
 import JS from '../Assets/javascript.png'
 import Tail from '../Assets/tailwind.png'
-import SASS from '../Assets/sass.webp'
+import nextImg from '../Assets/nextjs.svg'
 import ReactImg from '../Assets/react.png'
+import AngularImg from '../Assets/Angular.png'
 import Node from '../Assets/node.png'
 import mongo from '../Assets/mongo.png'
 import redux from '../Assets/redux.webp'
@@ -46,12 +47,16 @@ function Skills() {
                             <p className="my-4">Tailwind CSS</p>
                         </div>
                         <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
-                            <img className="w-20 mx-auto" src={SASS} alt="HTML icon" />
-                            <p className="my-4">SASS</p>
+                            <img className="w-20 mx-auto" src={nextImg} alt="HTML icon" />
+                            <p className="my-4">Next JS</p>
                         </div>
                         <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
                             <img className="w-20 mx-auto" src={ReactImg} alt="HTML icon" />
                             <p className="my-4">React JS</p>
+                        </div>
+                        <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+                            <img className="w-20 mx-auto" src={AngularImg} alt="HTML icon" />
+                            <p className="my-4">Angular </p>
                         </div>
                         <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
                             <img className="w-20 mx-auto" src={Node} alt="HTML icon" />
