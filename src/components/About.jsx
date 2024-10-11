@@ -14,8 +14,8 @@ function About() {
                             <p className='py-4'>WHO I Am</p>
                         </div>
                         <div>
-                            <p>Hello, I'm Abhijith S, a passionate Full Stack Developer with a strong foundation in computer science and a Diploma in ECE. I thrive on turning ideas into digital solutions and enjoy the process of creating seamless, user-friendly experiences.</p>
-                            <p className='mt-3'>In my professional journey, I have successfully contributed to various projects, utilizing my expertise in the MERN stack. From designing responsive user interfaces with React to building robust back-end services with Node.js and Express, my goal is to create seamless and enjoyable user experiences</p>
+                            <p>Hello, I'm Abhijith S, a Dynamic MEARN stack developer with extensive experience in building robust web applications using MongoDB, Express.js, Angular, and Node.js. Proficient in developing responsive user interfaces, optimizing server-side logic, and ensuring seamless database integration. Passionate about leveraging cutting-edge technologies to deliver high-quality solutions that enhance user experiences and meet business objectives.</p>
+                            <p className='mt-3'>Skilled in full-stack development, with expertise in JavaScript, TypeScript, HTML5, and CSS3. Experienced in RESTful API design, version control using Git, and agile methodologies. Adept at collaborating with cross-functional teams to identify requirements and implement efficient solutions. Committed to continuous learning and keeping up with industry trends to drive innovation in web development.</p>
 
                         </div>
 
