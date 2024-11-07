@@ -45,7 +45,7 @@ const Work = () => {
                   <img src={`${item.image}`} alt="" className="rounded-lg shadow-md shadow-[#040c16] hover:scale-110 duration-500" />
                   <div className="button-container grid-cols-2">
                     <a href={`${item.github}`} target='_blank' rel="noopener noreferrer"><button className="btn btn-success m-2 shadow-md shadow-[#040c16] hover:scale-110 duration-500">Github</button></a>
-                    <a href={`${item.live}`}> <button className="btn btn-info shadow-md shadow-[#040c16] hover:scale-110 duration-500" >Live </button></a>
+                    <a href={`${item.live}`} target='_blank' rel="noopener noreferrer"> <button className="btn btn-info shadow-md shadow-[#040c16] hover:scale-110 duration-500" >Live </button></a>
                   </div>
                 </div>
 
