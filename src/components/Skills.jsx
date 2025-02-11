@@ -46,10 +46,10 @@ function Skills() {
                             <img className="w-20 mx-auto" src={Tail} alt="HTML icon" />
                             <p className="my-4">Tailwind CSS</p>
                         </div>
-                        <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
+                        {/* <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
                             <img className="w-20 mx-auto" src={nextImg} alt="HTML icon" />
                             <p className="my-4">Next JS</p>
-                        </div>
+                        </div> */}
                         <div className="shadow-md shadow-[#040c16] hover:scale-110 duration-500">
                             <img className="w-20 mx-auto" src={ReactImg} alt="HTML icon" />
                             <p className="my-4">React JS</p>

@@ -7,9 +7,25 @@ import Rest from "../Assets/projects/Restaurant.png";
 import Simple from "../Assets/projects/SimpleIntrest.png";
 import Todo from "../Assets/projects/ToDo.png";
 import Artify from "../Assets/projects/Artify.png";
+import HeroAdmin from "../Assets/projects/Hero-admin.png";
+import HeroUser from "../Assets/projects/Hero-user.png";
 import ProjectFair from "../Assets/projects/Projectfair.png";
 
 export const data = [
+  {
+    id: 1,
+    name: "Hero Dashboard",
+    image: HeroAdmin,
+    github: "https://github.com/AbhijithKollam/Hero-Admin",
+    live: "https://hero-admin-2.vercel.app/",
+  },
+  {
+    id: 1,
+    name: "Hero Website",
+    image: HeroUser,
+    github: "https://github.com/AbhijithKollam/Hero-User",
+    live: "https://hero-user.vercel.app/",
+  },
   {
     id: 1,
     name: "Artify",
