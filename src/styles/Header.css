@@ -27,14 +27,14 @@ body {
 /* Mobile View */
 @media (max-width: 768px) {
   .brand {
-    font-size: 1em;
+    font-size: 1.5em;
   }
 }
 
 /* Small Mobile View */
 @media (max-width: 480px) {
   .brand {
-    font-size: 0.5em;
+    font-size: 1em;
   }
 }
 
