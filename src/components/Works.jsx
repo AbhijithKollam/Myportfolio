@@ -40,7 +40,7 @@ const Work = () => {
                 //   </div>
                 // </div>
 
-                <div>
+                <div className="shadow-md shadow-[#040c16] rounded-5 p-3"> 
                   <h2 className='pb-1'>{item.name}</h2>
                   <img src={`${item.image}`} alt="" className="rounded-lg shadow-md shadow-[#040c16] hover:scale-110 duration-500" />
                   <div className="button-container grid-cols-2">
