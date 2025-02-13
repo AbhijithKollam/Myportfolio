@@ -13,26 +13,23 @@ body {
   z-index: 1000;
 }
 
-/* Tablet View */
-@media (max-width: 1024px) {
+/* @media (max-width: 1024px) {
   .navbar {
     height: 92px;
   }
 }
 
-/* Mobile View */
 @media (max-width: 768px) {
   .navbar {
     height: 77px;
   }
 }
 
-/* Small Mobile View */
 @media (max-width: 480px) {
   .navbar {
     height: 62px;
   }
-}
+} */
 
 .brand {
   font-size: 3em; /* Default for laptop view */
