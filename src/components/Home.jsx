@@ -5,7 +5,7 @@ function Home() {
     return (
         <>
             <div id='home' className=' text-center  justify-center items-center py-48 h-screen   min-h-screen bg-gradient-to-b from-yellow-500 to-blue-500'  >
-                <p className='text-center text-6xl font-bold sm:text-6xl xs:text-4xl' > Hi, I'm <span className='text-blue-400'>Abhijith</span></p>
+                <p className='text-center text-6xl font-bold sm:text-6xl xs:text-4xl' > Hi, I'm <span className='text-orange-100'>A</span><span className='text-orange-200'>b</span><span className='text-orange-300'>h</span><span className='text-orange-400'>i</span><span className='text-orange-500'>j</span><span className='text-orange-600'>i</span><span className='text-orange-700'>t</span><span className='text-orange-800'>h</span></p>
                 <p md={12} sm={12} className='text-2xl  mt-3 text-bold'> A Full Stack Developer</p>
                 <div className='mt-5'>
                     <p class="py-4 text-xl text-gray-600 max-w-[70%] m-auto"> I’m a full-stack developer specializing in building exceptional digital experiences. Currently, I’m focused on
